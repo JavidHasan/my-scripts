@@ -2,7 +2,7 @@
 
 # Database credentials
 
-DB_HOST="172.20.30.87"
+DB_HOST="172.20.30.47"
 DB_USER="cavidh"
 DB_PASS="DBSipInt22"
 DB_NAME="asterisk"
